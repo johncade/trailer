@@ -2,8 +2,9 @@
   "name": "jcgriffinsite",
   "version": "0.0.0",
   "dependencies": {
-    "express": "^4.13.0",
-    "gzippo": "^0.2.0"
+    "express": "^3.21.0",
+    "gzippo": "^0.2.0",
+    "morgan": "^1.6.1"
   },
   "repository": {},
   "devDependencies": {
