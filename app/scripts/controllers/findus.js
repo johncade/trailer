@@ -4,11 +4,11 @@
  * @ngdoc function
  * @name jcgriffinSiteApp.controller:AboutCtrl
  * @description
- * # findusCtrl
- * Controller of the trailerApp
+ * # AboutCtrl
+ * Controller of the jcgriffinSiteApp
  */
 angular.module('jcgriffinSiteApp')
-  .controller('AboutCtrl', function ($scope) {
+  .controller('FindusCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
